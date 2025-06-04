@@ -1,0 +1,30 @@
+workflows:
+  flutter-ios-workflow:
+    name: Flutter iOS Build
+    max_build_duration: 60
+    environment:
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+      vars:
+        APP_ID: com.seu.dominio.app  # Substitua com o ID real do app se necessário
+    scripts:
+      - name: Instalando dependências
+        script: |
+          flutter pub get
+      - name: Gerando arquivos necessários (FlutterFlow)
+        script: |
+          flutter packages pub run build_runner build --delete-conflicting-outputs || true
+      - name: Rodando testes (opcional)
+        script: |
+          flutter test || true
+      - name: Build iOS
+        script: |
+          flutter build ios --release --no-codesign
+    artifacts:
+      - build/ios/iphoneos/*.app
+      - build/ios/iphoneos/*.ipa
+    publishing:
+      email:
+        recipients:
+          - seuemail@exemplo.com  # Substitua pelo seu e-mail para receber notificações
