@@ -43,41 +43,13 @@
 
 ### FrontEnd💻
 
-- React
-- Typescript
-- HTML
-- CSS
-- Javascript
+- FlutterFlow
 
 ### BackEnd🔩
 
-- Typescript
-- Node JS
-- Express
+- Supabase
 - Sqlite3
-- Knex
 
 ## Como usar✍️
 
-### Cliente 🖥️
 
-`cd web`
-
-`npm install`
-
-`npm start`
-
-### Servidor💾
-`cd server`
-
-`npm install`
-
-`npm run migrate`
-
-`npm start`
-
-## Colaboradores
-
-- Arthur Anício-TechLead
-- Marcelo Guimarães-Desenvolvedor FrontEnd
-- Gabriel Katahira-Desenvolvedor BackEnd
