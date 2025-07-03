@@ -1,12 +1,12 @@
-# **PhysiX⚛️**
+# **Formulario SSMA📄**
 
 ## O que é🔍
 
-*PhysiX é um projeto de finalização do curso de tecnologia da informação do Colégio Cotemig. Consiste numa plataforma com o objetivo de facilitar o estudo de fisica para estudantes e prover um meio de estabelecer contato com professores. Uma rede social focada em conectar professores e alunos*
+*Formulario SSMA é um aplicativo criado com o objetivo de permitir o registro dos formularios de pessoas que fazem uma visita a campo*
 
-![LandingPage](https://raw.githubusercontent.com/ArthurAnicio/PhysiX/main/web/public/assets/landing.png)
+![LandingPage](![home_page](https://github.com/user-attachments/assets/47048c96-b952-4b54-a406-cc10abf60c89))
 
-*Aqui professores postam materiais e os alunos podem reagir ao post curtindo ou comentando*
+*Aqui será feito o Login para validar seu usuario e identificar qual tipo de usuario é (Usuario comum ou Administrador)*
 
 ![Exemple](https://raw.githubusercontent.com/ArthurAnicio/PhysiX/main/web/public/assets/posts.png)
 
