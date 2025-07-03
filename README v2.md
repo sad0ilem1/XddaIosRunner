@@ -23,8 +23,21 @@
 
 *Ao clicar para criar um formulario você vai ser redirecionado para esta pagina, nela você vai ter essa parte acima que seria as informações gerias, e logo abaixo tem os blocos de inspeção (podendo conter ate 10) depois de inserir todas informações que precisava você pode salvar esse registro, gerar um pdf dele e caso tena feito algum registro offline tambem tem a opção de sincronizar registo que sincroniza seus registros offlines com os onlines*
 
+![pdf gerado](https://github.com/user-attachments/assets/b1817c78-a7b3-4719-b655-98598340d3c8)
 
-*Ao clicar para gerar pdf*
+*Ao clicar para gerar pdf, assim como dito anteriormente ele vai pegar todas informações inseridas no formulario e gerar um pdf delas permitindo tambem o donwload*
+
+![listPage](https://github.com/user-attachments/assets/09a97459-6aba-4d87-8a1a-5bb25fad6d59)
+
+*Indo para o visualizador de registros agora, nesta pagina vão aparecer todos os registros do seu usuario, clicando no icone do lapis ele vai te redirecionar para a pagina de edição, permitindo mudar as informações daquele formulario*
+
+![editPage](https://github.com/user-attachments/assets/61d6d64d-82fd-4c0f-a1b5-d544d1213f37)
+![editPage2](https://github.com/user-attachments/assets/5ecddefa-1b17-4851-95d2-4c578671e2ba)
+
+*Aqui na pagina de edição, podemos atualizar as informações antigas, deletar o registro, deletar as fotos do registro somente (depois de validado) e gerar o pdf novamente*
+
+
+
 
 ## **Tecnologias🛠️**
 
