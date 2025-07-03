@@ -48,6 +48,7 @@
 
 
 ![listPageADM](https://github.com/user-attachments/assets/9b932861-9648-4ac6-8263-e4b852da957c)
+
 *Na pagina de visualização de registro o administrador consegue visualizar o registro de todos os usuarios e tambem a quantidade total dos registros*
 
 *Sobre a pagina de Criação e edição de registros a do Adm é identica a de um usuario normal, oque muda são suas permissões, um usuario normal não consegue editar os status de seus registros, somente o adm pode fazer isso*
