@@ -2,14 +2,12 @@
 
 ## O que é🔍
 
-*Formulario SSMA é um aplicativo criado com o objetivo de permitir o registro dos formularios de pessoas que fazem uma visita a campo*
-
+*O Formulario SSMA é uma solução móvel e web projetada para otimizar e digitalizar o preenchimento de formulários de Saúde, Segurança e Meio Ambiente (SSMA) durante visitas a campo. O aplicativo elimina a necessidade de formulários em papel, centraliza os dados de forma segura e permite a geração de relatórios imediatos, mesmo em locais sem conexão com a internet.*
 ## **Usuario👷‍♂️**
 ![Login_Page_Online](https://github.com/user-attachments/assets/f0bfb6f5-6f3d-4be7-8acf-3200fa0de46d)
 
 
-*Aqui será feito o Login para validar seu usuario e identificar qual tipo de usuario é, (Usuario comum ou Administrador)*
-
+*A tela de Login valida as credenciais do usuário e o direciona para a interface correspondente ao seu nível de permissão (Usuário ou Administrador).*
 
 ![MenuPrincipalUsuario](https://github.com/user-attachments/assets/46d2bfa2-0787-4ca3-b8b9-157676ce6191)
 ![DrawerUsuario](https://github.com/user-attachments/assets/7a1edc15-0343-401f-a7f4-8a0eab200e59)
@@ -23,7 +21,7 @@
 
 ![BlocoInspecao](https://github.com/user-attachments/assets/8433b96a-deff-4ea6-809c-2820aadd7bc8)
 
-*Ao clicar para criar um formulario você vai ser redirecionado para esta pagina, nela você vai ter essa parte acima que seria as informações gerias, e logo abaixo tem os blocos de inspeção (podendo conter ate 10) depois de inserir todas informações que precisava você pode salvar esse registro, gerar um pdf dele e caso tena feito algum registro offline tambem tem a opção de sincronizar registo que sincroniza seus registros offlines com os onlines*
+*Ao selecionar "Criar Formulário", o usuário é direcionado para a página de registro, que se divide em Informações Gerais e Blocos de Inspeção*
 
 ![pdf gerado](https://github.com/user-attachments/assets/b1817c78-a7b3-4719-b655-98598340d3c8)
 
@@ -61,7 +59,7 @@
 *Caso o usuario esteja offline, ele pode fazer um login sem inserir nenhuma informação, é como se ele entrasse no app sem usuario*
 ![offline](https://github.com/user-attachments/assets/9714289b-9e33-443a-adad-a4567128e41f)
 ![offline2](https://github.com/user-attachments/assets/324f3d94-737a-43ce-a17e-9a9eb0cb2be2)
-*O usuario pode criar um registro normalmente quando esta offline, ele tambem consegue gerar um pdf com todas informações, a unica mudança é que offline não se armazena a imagem*
+*No modo offline, o usuário pode criar e salvar registros completos. A única limitação é que as imagens não são armazenadas localmente, devendo ser adicionadas após a sincronização.*
 
 *A parte offline do projeto funciona igual as outras, possibilitando você fazer oque precisa em qualquer lugar , salvar e depois quando tiver conexão novamente pode sincronizar as informações. 
 Obs: O Offline só é suportado para o aplicativo em si e não para versão web*
@@ -77,5 +75,18 @@ Obs: O Offline só é suportado para o aplicativo em si e não para versão web*
 
 - Supabase
 - Sqlite3
+
+## **Como Começar 🚀**
+
+### Pré-requisitos
+
+* Para a versão mobile, um dispositivo Android.
+* Para a versão web, um navegador de internet moderno.
+* Uma conta de usuário (fornecida pelo administrador do sistema).
+
+### Acesso
+
+* **Versão Web:** Acesse o sistema através do link: `https://formulariossma.flutterflow.app`
+* **Aplicativo Mobile:** Baixe o APK do aplicativo ou solicite ele para Anderson Rungue Filho da Engenharia Digital *.
 
 
