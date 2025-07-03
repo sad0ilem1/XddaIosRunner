@@ -3,10 +3,12 @@
 ## O que é🔍
 
 *Formulario SSMA é um aplicativo criado com o objetivo de permitir o registro dos formularios de pessoas que fazem uma visita a campo*
+
+## **Usuario👷‍♂️**
 ![Login_Page_Online](https://github.com/user-attachments/assets/f0bfb6f5-6f3d-4be7-8acf-3200fa0de46d)
 
 
-*Aqui será feito o Login para validar seu usuario e identificar qual tipo de usuario é, (Usuario comum ou Administrador) *
+*Aqui será feito o Login para validar seu usuario e identificar qual tipo de usuario é, (Usuario comum ou Administrador)*
 
 
 ![MenuPrincipalUsuario](https://github.com/user-attachments/assets/46d2bfa2-0787-4ca3-b8b9-157676ce6191)
@@ -36,7 +38,33 @@
 
 *Aqui na pagina de edição, podemos atualizar as informações antigas, deletar o registro, deletar as fotos do registro somente (depois de validado) e gerar o pdf novamente*
 
+## **Administrador🛡**
 
+
+*As funcionalidades do Administrador e as do usuario comum são quase as mesmas*
+
+![MenuPrincipalADM](https://github.com/user-attachments/assets/247b6c27-c048-409a-8dd4-e10ee0e29d3b)
+![DrawerADM](https://github.com/user-attachments/assets/b7600119-3370-477b-9f43-addb5d6c9ead)
+
+*Ao fazer login como adm sua pagina principal ira mudar referenciando que você esta na conta de adm*
+
+
+![listPageADM](https://github.com/user-attachments/assets/9b932861-9648-4ac6-8263-e4b852da957c)
+*Na pagina de visualização de registro o administrador consegue visualizar o registro de todos os usuarios e tambem a quantidade total dos registros*
+
+*Sobre a pagina de Criação e edição de registros a do Adm é identica a de um usuario normal, oque muda são suas permissões, um usuario normal não consegue editar os status de seus registros, somente o adm pode fazer isso*
+
+
+## **Usuario Offline 📶**
+![loginOffline](https://github.com/user-attachments/assets/b61fce9c-effc-4e67-a334-b99830f09ebb)
+
+*Caso o usuario esteja offline, ele pode fazer um login sem inserir nenhuma informação, é como se ele entrasse no app sem usuario*
+![offline](https://github.com/user-attachments/assets/9714289b-9e33-443a-adad-a4567128e41f)
+![offline2](https://github.com/user-attachments/assets/324f3d94-737a-43ce-a17e-9a9eb0cb2be2)
+*O usuario pode criar um registro normalmente quando esta offline, ele tambem consegue gerar um pdf com todas informações, a unica mudança é que offline não se armazena a imagem*
+
+*A parte offline do projeto funciona igual as outras, possibilitando você fazer oque precisa em qualquer lugar , salvar e depois quando tiver conexão novamente pode sincronizar as informações. 
+Obs: O Offline só é suportado para o aplicativo em si e não para versão web*
 
 
 ## **Tecnologias🛠️**
@@ -49,7 +77,5 @@
 
 - Supabase
 - Sqlite3
-
-## Como usar✍️
 
 
