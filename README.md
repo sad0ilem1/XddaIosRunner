@@ -4,7 +4,7 @@
 
 *Formulario SSMA é um aplicativo criado com o objetivo de permitir o registro dos formularios de pessoas que fazem uma visita a campo*
 
-![LandingPage](![home_page](https://github.com/user-attachments/assets/47048c96-b952-4b54-a406-cc10abf60c89))
+![home_page](https://github.com/user-attachments/assets/47048c96-b952-4b54-a406-cc10abf60c89))
 
 *Aqui será feito o Login para validar seu usuario e identificar qual tipo de usuario é (Usuario comum ou Administrador)*
 
